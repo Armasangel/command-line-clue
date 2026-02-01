@@ -13,7 +13,7 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Location of the crime is THE CELLAR OF THE RESIDENTIAL AREA
 NEW CLUE: Check the bakery in the shops.
 NEW CLUE: Cameras on the market detected movement
 NEW CLUE: Go to the cellar in the Residential Area.
