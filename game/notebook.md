@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist
+- [ ] The Journalist (was on the market with the brass candlestick and other objects)
 - [ ] The Shopkeeper
 - [X] The Teacher (found on the bakery)
 
@@ -16,3 +16,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 NEW CLUE: Check the bakery in the shops.
 NEW CLUE: Cameras on the market detected movement
+NEW CLUE: Go to the cellar in the Residential Area.
