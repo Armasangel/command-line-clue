@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Journalist (was on the market with the brass candlestick and other objects)
+- [X] The Journalist (was on the market with the brass candlestick and other objects)
 - [ ] The Shopkeeper
 - [X] The Teacher (found on the bakery)
 
 ## Weapons
 - [ ] Letter Opener
 - [ ] Heavy Book
-- [ ] Brass Candlestick
+- [X] Brass Candlestick
 
 ## Notes
 *Use this space to record your findings and deductions...*
