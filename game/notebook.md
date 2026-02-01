@@ -17,3 +17,8 @@ Location of the crime is THE CELLAR OF THE RESIDENTIAL AREA
 NEW CLUE: Check the bakery in the shops.
 NEW CLUE: Cameras on the market detected movement
 NEW CLUE: Go to the cellar in the Residential Area.
+
+INVESTIGATION CONCLUSION:
+
+THE CULPRIT WAS THE SHOPKEEPER WITH THE HEAVY BOOK IN THE CELLAR!!!!!!
+CASE CLOSED!!!!!!!!!!!!!!!!!
