@@ -6,7 +6,7 @@
 - [X] The Teacher (found on the bakery)
 
 ## Weapons
-- [ ] Letter Opener
+- [X] Letter Opener (found in the park)
 - [ ] Heavy Book
 - [X] Brass Candlestick
 
