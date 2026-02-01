@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Journalist
 - [ ] The Shopkeeper
-- [ ] The Teacher
+- [X] The Teacher (found on the bakery)
 
 ## Weapons
 - [ ] Letter Opener
@@ -15,3 +15,4 @@
 
 Location of the crime is still unknown - the room must have been empty when it happened...
 NEW CLUE: Check the bakery in the shops.
+NEW CLUE: Cameras on the market detected movement
